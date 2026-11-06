@@ -1,5 +1,0 @@
-PyMuPDF
-fastapi
-uvicorn
-python-multipart
-pytest
