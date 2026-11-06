@@ -1,0 +1,10 @@
+# Private data and credentials - never commit
+.env
+*.key
+secrets/
+uploads/
+data/
+*.pdf
+__pycache__/
+.venv/
+.pytest_cache/
